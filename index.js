@@ -1,0 +1,1 @@
+let waka = document.querySelector(".waka")
